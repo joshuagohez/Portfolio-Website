@@ -1,0 +1,6 @@
+.footer p {
+    color: var(--color-light);
+    font-size: 0.7rem;
+    text-align: center;
+    margin: 10rem 0 0.5rem;
+}
